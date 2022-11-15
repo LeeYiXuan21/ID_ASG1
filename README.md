@@ -1,15 +1,13 @@
-# ID_ASG1
-My Project is about......
-The readme is to contain all documentation and research done.
-It should also detail down:
+# ID_ASG1: Maroon 5 FanPage
+My Project is about (
 ● the user audience intent and purpose.
 ● Who the website is catering for? Value that it is providing to users
 ● What is the website catering for?
 ● Attribute all external source code used
-Your Project's Name
+
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
-Essentially, this part is your sales pitch.
+Essentially, this part is your sales pitch.)
 
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
