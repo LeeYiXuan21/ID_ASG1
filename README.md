@@ -7,7 +7,12 @@ My Project is about (
 
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
-Essentially, this part is your sales pitch.)
+Essentially, this part is your sales pitch.
+External user’s goal:
+The site's users are fans and potential fans who wish to learn more about the band's history
+and the band members, and possibly book them for shows.
+Site owner's goal:
+The band are interested in selling more of their music/merchandise and getting more gigs.)
 
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -19,6 +24,11 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Showcase photos, audio and/or video clips from the band's catalogue.
+● Publicise the band's upcoming shows and/or availability to perform at events such as
+weddings and corporate parties.
+● Provide links to external resources, such as the band's social media profiles (can
+point anywhere at all)
 
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
