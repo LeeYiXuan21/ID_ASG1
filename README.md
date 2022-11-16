@@ -1,18 +1,5 @@
 # ID_ASG1: Maroon 5 FanPage
-My Project is about (
-● the user audience intent and purpose.
-● Who the website is catering for? Value that it is providing to users
-● What is the website catering for?
-● Attribute all external source code used
-
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
-External user’s goal:
-The site's users are fans and potential fans who wish to learn more about the band's history
-and the band members, and possibly book them for shows.
-Site owner's goal:
-The band are interested in selling more of their music/merchandise and getting more gigs.)
+My Project is about a website to give information about the band Maroon 5 and sells merchandise of the band. The purpose of to website is to provide a platform for people who are interested in the band or fans of the band to find out more and get merchandise of the band. The site's users are fans and potential fans who wish to learn more about the band's history and the band members, and know their schedules. Site owner's goal is the band are interested in leeting more people knoe or learn about the band and selling more of the merchandise.
 
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -25,8 +12,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 Showcase photos, audio and/or video clips from the band's catalogue.
-● Publicise the band's upcoming shows and/or availability to perform at events such as
-weddings and corporate parties.
+● Publicise the band's upcoming shows 
 ● Provide links to external resources, such as the band's social media profiles (can
 point anywhere at all)
 
