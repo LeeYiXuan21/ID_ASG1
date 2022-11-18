@@ -1,15 +1,15 @@
-# ID_ASG1: Maroon 5 FanPage
-My Project is about a website to give information about the band Maroon 5 and sells merchandise of the band. The purpose of to website is to provide a platform for people who are interested in the band or fans of the band to find out more and get merchandise of the band. The site's users are fans and potential fans who wish to learn more about the band's history and the band members, and know their schedules. Site owner's goal is the band are interested in leeting more people knoe or learn about the band and selling more of the merchandise.
+# ID_ASG1: Imagine Dragon FanPage
 
-Design Process
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+##Purpose
+My Project is about a website to give information about the band Imagine Dragon and sells merchandise of the band. The purpose of to website is to provide a platform for people who are interested in the band or fans of the band to find out more and get merchandise of the band. The site's users are fans and potential fans who wish to learn more about the band's history and the band members, learn more about their songs and know their schedules. Site owner's goal is the band are interested in leting more people know or learn about the band and selling more of the merchandise.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+##Design Process
+I started with reasearching about the band and about different websites. Then,  i take down what information i need and what features i'm going to put in the website. After that, i started sketching the wireframe and my ideas, then use adobe XD to store my sketches. Since the website is for fans or potential fans of the band , i wanted to give reliable information and thought of things they want to know about and what they want. My project is the best way to help them achieve the things they want to achieved as a user type, I want to perform an action of introducing the band and selling merchandise , so that I can achieve a goal of letting more people become interested in the band.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+###Wireframes, mockups, diagrams etc. that you created as part of the design process:
+-
 
-Features
+##Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 Showcase photos, audio and/or video clips from the band's catalogue.
 ● Publicise the band's upcoming shows 
