@@ -32,7 +32,8 @@ Another feature idea
 ## Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 - Adobe XD
-- 
+- Visual Studio Code
+- GitHub
 
 ## Testing:
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing my testing process is via scenarios, such as:
@@ -43,8 +44,10 @@ For any scenarios that have not been automated, test the user stories manually a
 -
 
 ## Credits for Content, Media
--The text for section Y was copied from the Wikipedia article Z
+-The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5.
 -The photos used in this site were obtained from ...
+-Information about adam was copied form https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/
+-Photo was used from https://metalheadzone.com/adam-levine-reveals-writing-process-details-of-maroon-5s-new-song-nobodys-love/
 
 ## Acknowledgements
 -I received inspiration for this project from their songs as i been listening to some of their songs, for example, memories, sugar and payphone.....
