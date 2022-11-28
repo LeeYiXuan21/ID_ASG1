@@ -44,10 +44,17 @@ For any scenarios that have not been automated, test the user stories manually a
 -
 
 ## Credits for Content, Media
--The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5.
+-The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5 and a website(https://www.aceshowbiz.com/celebrity/maroon_5/biography.html)
 -The photos used in this site were obtained from ...
--Information about adam was copied form https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/
+-Information about adam was copied form https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/ and https://maroon5.fandom.com/wiki/Adam_Levine
 -Photo was used from https://metalheadzone.com/adam-levine-reveals-writing-process-details-of-maroon-5s-new-song-nobodys-love/
+-
+-https://maroon5.fandom.com/wiki/Jesse_Carmichael
+-https://maroon5.fandom.com/wiki/Ryan_Dusick
+-https://maroon5.fandom.com/wiki/Mickey_Madden
+-https://maroon5.fandom.com/wiki/James_Valentine
+-
+-The text for the schedules is taken from the maroon 5 website (https://www.maroon5.com/tour)
 -The photos used in the merchandise site were obtained from official Maroon 5 website(https://maroon5.store/)
 -https://cdn.shopify.com/s/files/1/0016/7473/9747/products/M5-0024_VinylMock-01_2_1_360x.png?v=1632237126
 -https://cdn.shopify.com/s/files/1/0016/7473/9747/products/6321M5jewelcase4.27_2ce63465-f0db-4f43-9ea3-a808a6d2b412_360x.png?v=1623733699
