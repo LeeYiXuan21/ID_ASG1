@@ -8,15 +8,23 @@ body {
   .main{
     bottom: 8px;
   }
+  
 
   .split{
     flex-basis:47%
   }
-    @media(max-width:200px){
-      .container{
-        flex-direction: center;
-      }
+
+  .p1{
+    
+  }
+  
+  @media(max-width:200px){
+    .container{
+      flex-direction: center;
     }
+  }
+
+
 
 .topnav {
     background-color: black;
