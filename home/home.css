@@ -15,7 +15,7 @@ body {
   }
 
   .p1{
-    
+
   }
   
   @media(max-width:200px){
@@ -65,13 +65,11 @@ body {
     color: white;
   }
 
-  .topnav-centered a {
-    float: none;
-    padding: 20px;
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
     border: none;
-    margin-top: 20px;
-    margin-right: 20px;
-    font-size: 20px;
   }
 
   .topnav .icon {
