@@ -1,12 +1,21 @@
+.main{
+  font-size: large;
+  text-align: center;
+}
+.box{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
 
-.row{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-  }
+.bg {
+
+  background-image: url("https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png");
+
+  height: 100%;
+
   
-.column {
-    flex: 50%;
-    padding: 10px;
-    margin-top: 20%;
-  }
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
