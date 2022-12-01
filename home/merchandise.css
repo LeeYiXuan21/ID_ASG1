@@ -19,3 +19,8 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.pic{
+  height: 50px;
+  width: 50px;
+}
