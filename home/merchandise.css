@@ -10,6 +10,11 @@
   flex-direction: row;
   align-items: flex-start;
 }
+.container{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
 
 body{
   background-color: aquamarine;
