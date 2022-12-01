@@ -29,7 +29,7 @@ body{
 }
 
 .topnav {
-  background-color: turquoise;
+  background-color: rgba(15, 127, 239, 0.958);
   overflow: hidden; 
   top: 0; 
   width: 100%; 
@@ -62,7 +62,7 @@ body{
 
 
 .topnav a.active {
-  background-color: rgba(57, 57, 236, 0.867);
+  background-color: turquoise;
   color: white;
 }
 
@@ -126,7 +126,7 @@ margin: 0;
 
 /* Add a red background color to navigation links on hover */
 .navbar a:hover, .subnav:hover .subnavbtn {
-background-color: rgb(191, 0, 255);
+background-color: rgba(179, 0, 255, 0.604);
 }
 
 /* Style the subnav content - positioned absolute */
@@ -148,7 +148,7 @@ text-decoration: none;
 
 /* Add a grey background color on hover */
 .subnav-content a:hover {
-background-color: #eee;
+background-color: violet;
 color: black;
 }
 

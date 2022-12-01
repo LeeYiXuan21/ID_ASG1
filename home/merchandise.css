@@ -8,8 +8,9 @@
   align-items: flex-start;
 }
 
-.bg {
-  height: 100%;
+body {
+  background-image: url('https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png');
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
