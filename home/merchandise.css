@@ -9,18 +9,13 @@
 }
 
 .bg {
-
-  background-image: url("https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png");
-
   height: 100%;
-
-  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .pic{
-  height: 50px;
-  width: 50px;
+  height: 10px;
+  width: 10px;
 }
