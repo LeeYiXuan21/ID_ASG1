@@ -25,9 +25,14 @@ body{
   bottom: 8px;
   color: white;
   }
+
  .split{
   flex-basis:47%
   }
+
+h2{
+  color: white;
+}
 
 @media(max-width:200px){
    .container{
