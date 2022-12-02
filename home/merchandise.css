@@ -1,6 +1,6 @@
 #header{
-  display: block;
-  margin-left: 500px;
+  display: flex;
+  justify-content: center;
   font-size: 40px;
   color: black;
   font-weight: bolder;
@@ -27,4 +27,15 @@ body{
   display: inline;
   height: 25%;
   width: 25%;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  background-color: orange;
+  color: white;
+  font-size: 25px;
+  margin-left: 650px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
