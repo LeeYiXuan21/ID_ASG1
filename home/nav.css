@@ -23,28 +23,6 @@
   }
   
 
-  .topnav a:hover {
-    background-color: rgb(213, 29, 213);
-    color: white;
-  }
-
-  .topnav-right {
-    float: right;
-  }
-  
- 
-  .topnav a.active {
-    background-color: blueviolet;
-    color: white;
-  }
-
-  .topnav input[type=text] {
-    padding: 6px;
-    margin-top: 8px;
-    font-size: 17px;
-    border: none;
-  }
-
   .topnav .icon {
     display: none;
   }
