@@ -33,9 +33,11 @@ body{
   display: flex;
   justify-content: center;
   background-color: orange;
+  border-color: aqua;
   color: white;
   font-size: 25px;
   margin-left: 650px;
   margin-top: 50px;
   margin-bottom: 50px;
+  cursor: pointer;
 }
