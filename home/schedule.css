@@ -11,10 +11,19 @@
     flex-direction: row;
     align-items: flex-start;
     justify-content: space-around;
-    margin: 5px;
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(12, 173, 236);
+    margin: 10px;
   }
+
+  .box a{
+    text-align: center;
+  }
+
 
 body{
     background-color: pink;
-    color: black;
+    color: darkblue;
 }
