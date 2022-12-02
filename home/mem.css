@@ -4,6 +4,11 @@
     display: flex;
     flex-direction: row;
     color: white;
+    justify-content: flex-end;
+}
+
+.box{
+    padding-top: 100px;
 }
 
 img{
@@ -15,7 +20,8 @@ img{
 body {
     background-image: url('https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png');
     width: 100%;
-    background-position: center;
+    margin:  0px;
+    background-position: center;    
     background-repeat: no-repeat;
     background-size: cover;
   }
