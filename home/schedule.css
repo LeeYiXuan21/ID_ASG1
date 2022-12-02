@@ -1,7 +1,17 @@
+#header{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+  }
+  
 .box{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
+    justify-content: space-around;
+    margin: 5px;
   }
 
 .p{

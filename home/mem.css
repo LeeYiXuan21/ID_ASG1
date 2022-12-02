@@ -1,9 +1,9 @@
-.member{
-    float: right;
-    width: 50%;
-    vertical-align: middle;
 
-}
+.box{
+    display: inline-block;
+    float: right;
+    color: white;
+  }
 
 .img{
     width: 100%;
