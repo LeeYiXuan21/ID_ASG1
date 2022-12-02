@@ -187,13 +187,13 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 hr {
-  border: 1px solid #f1f1f1;
+  border: 1px solid skyblue;
   margin-bottom: 25px;
 }
 
 
 button {
-  background-color: skyblue;
+  background-color: rgb(159, 234, 62);
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -221,7 +221,7 @@ button:hover {
 
 .containerform {
   padding: 16px;
-  background-color: azure;
+  background-color: rgb(107, 244, 244);
 }
 
 .clearfix::after {
@@ -234,4 +234,25 @@ button:hover {
   .cancelbtn, .signupbtn {
     width: 100%;
   }
+}
+
+.article{
+  color: white;
+}
+
+.linkicon{
+  color: white;
+  display: flex;
+  justify-content: center;
+  size: 50px;
+}
+
+.linky{
+  background-color: plum;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
 }
