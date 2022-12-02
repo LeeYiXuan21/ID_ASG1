@@ -11,8 +11,14 @@
     padding-top: 100px;
 }
 
+p{
+    padding: 10px;
+}
+
 img{
-    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
     width: 500px;
     height: 600px;
 }
