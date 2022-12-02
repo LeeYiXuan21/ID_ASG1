@@ -80,5 +80,12 @@ For any scenarios that have not been automated, test the user stories manually a
 -https://cdn.shopify.com/s/files/1/0016/7473/9747/products/Croppedhoodie_360x.png?v=1629742193
 -https://cdn.shopify.com/s/files/1/0016/7473/9747/products/CroppedTee_360x.png?v=1629685293
 
+-The links that are used:
+-https://twitter.com/maroon5
+-https://www.maroon5.com/
+-https://www.facebook.com/people/Official-Maroon-5/100068387934583/
+-https://www.youtube.com/channel/UCBVjMGOIkavEAhyqpxJ73Dw
+-https://www.instagram.com/maroon5/
+
 ## Acknowledgements
 -I received inspiration for this project from their songs as i been listening to some of their songs, for example, memories, sugar and payphone.....
