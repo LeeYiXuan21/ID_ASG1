@@ -6,7 +6,7 @@
     font-weight: bolder;
   }
 
-.box{
+  .box{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -18,9 +18,6 @@
     margin: 10px;
   }
 
-  .box a{
-    text-align: center;
-  }
 
 
 body{
