@@ -18,22 +18,28 @@ I started with reasearching about the band and about different websites. Then,  
 ### The features are 
 ● Introduction of band's history
 ● Background of each member
-● Show songs published
+● Show some songs published
 ● Publicise the band's upcoming shedule
 ● Sell merchandise 
 ● Provide links to external resources, such as the band's social media profiles
 
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
+Feature 1 - allows users to learn about the band's history, by having them read the passage.
+Feature 2 - allows users to learn about each band member, by having them read the passage.
+Feature 3 - allow user to listin to some songs they puplish by clicking on the youtube tab.
+Feature 4 - allow users to know their schedule and maybe go support them, by reading through the passaage and clicking a link to buy tickets.
+Feature 5 - allow users to know what merchandise are avaliable and buy them.
+Feature 6 - allow users to get more infomation through the official resources, for example youtube and instagram.
+
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-Features Left to Implement
-Another feature idea
+-Have latest news of the band
+-Have all the songs in the webpage
 
 ## Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 - Adobe XD
 - Visual Studio Code
-- GitHub
+- GitHub(https://github.com/LeeYiXuan21/ID_ASG1/edit/main/README.md)-It was use as a website to store all my work.
+- -w3school(https://www.w3schools.com/)-It help with the coding and gave fonts and information on some features.
 
 ## Testing:
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing my testing process is via scenarios, such as:
@@ -41,6 +47,7 @@ For any scenarios that have not been automated, test the user stories manually a
 
 
 ### Interesting bugs or problems i discovered during testing:
+-some application cannot be applied and i have to edit and kept redoing until it works.
 -
 
 ## Credits for Content, Media
