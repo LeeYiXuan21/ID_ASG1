@@ -79,7 +79,7 @@ h2{
 
 
 .topnav a.active {
-  background-color: turquoise;
+  background-color: rgb(23, 200, 232);
   color: white;
 }
 
@@ -96,7 +96,7 @@ h2{
 
 
 .main {
-  margin-top: 100px; 
+  margin-top: 50px; 
 }
 
 @media screen and (max-width: 600px) {
@@ -193,7 +193,7 @@ hr {
 
 
 button {
-  background-color: rgb(159, 234, 62);
+  background-color: rgb(41, 170, 127);
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -221,7 +221,7 @@ button:hover {
 
 .containerform {
   padding: 16px;
-  background-color: rgb(107, 244, 244);
+  background-color: rgb(162, 233, 233);
 }
 
 .clearfix::after {
@@ -248,11 +248,20 @@ button:hover {
 }
 
 .linky{
-  background-color: plum;
-  color: black;
+  background-color: rgb(224, 117, 224);
+  color: white;
   padding: 14px 20px;
   margin: 8px 0;
-  border: none;
+  border: plum;
+  border-style: solid;
+  border-radius: 20px;
   cursor: pointer;
   width: 50%;
+}
+
+.linkinfo{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 50px;
 }
