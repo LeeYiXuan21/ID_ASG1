@@ -21,6 +21,11 @@
     font-size: 20px;
     display: block;
   }
+
+  .topnav a.active {
+    background-color: rgb(23, 200, 232);
+    color: white;
+  }
   
 
   .topnav .icon {
