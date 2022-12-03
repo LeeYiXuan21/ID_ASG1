@@ -30,12 +30,14 @@ body {
   }
 
   @media screen and (max-width: 600px){
-    div.container {
+    .box {
         margin-top: 500px;
         display: flex;
         flex-direction: column;
         color: white;
         justify-content: flex-start;
+        left: 0px;
+        top: 600px;
     }
     
     
