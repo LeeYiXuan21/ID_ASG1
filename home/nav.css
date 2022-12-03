@@ -60,4 +60,18 @@
     }
   }
 
+  .top{
+    color: white;
+    font-size: 20px;
+    background-color: darkorange;
+    display: flex;
+    width: 25%;
+    justify-content: center;
+    border: 2px;
+    border-color: lightsalmon;
+    border-style: solid;
+    margin: 50px;
+    margin-left: 550px;
+  }
+
   
