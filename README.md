@@ -16,9 +16,9 @@ I started with reasearching about the band and about different websites. Then,  
 
 ## Features:
 ### Showcase photos, audio and/or video clips from the band's catalogue:
-- ![image](https://user-images.githubusercontent.com/116336741/202636687-b82f8b66-3152-4382-9442-dc1959c98a32.png)
--memories-(https://youtu.be/SlPhMPnQ58k)
--
++ ![image](https://user-images.githubusercontent.com/116336741/202636687-b82f8b66-3152-4382-9442-dc1959c98a32.png)
++ memories-(https://youtu.be/SlPhMPnQ58k)
++ sugar concert(https://www.youtube.com/embed/6eKv2lqgR-Q)
 
 ### The features are 
 ● Introduction of band's history
@@ -41,8 +41,8 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-- Adobe XD
-- Visual Studio Code
+- Adobe XD - Use for wireframe.
+- Visual Studio Code- use for coding.
 - GitHub(https://github.com/LeeYiXuan21/ID_ASG1/edit/main/README.md)-It was use as a website to store all my work.
 - -w3school(https://www.w3schools.com/)-It help with the coding and gave fonts and information on some features.
 
@@ -52,19 +52,24 @@ For any scenarios that have not been automated, test the user stories manually a
 
 
 ### Interesting bugs or problems i discovered during testing:
--some application cannot be applied and i have to edit and kept redoing until it works.
--
++ Some application cannot be applied and i have to edit and kept redoing until it works.
++ Have problems positioning stuff and paragraphing.
++ Not sure how adjust my bugs and errors.
+
 
 ## Credits for Content, Media
--The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5 and a website(https://www.aceshowbiz.com/celebrity/maroon_5/biography.html)
--The photos used in this site were obtained from ...
--Information about adam was copied form https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/ and https://maroon5.fandom.com/wiki/Adam_Levine
--Photo was used from https://metalheadzone.com/adam-levine-reveals-writing-process-details-of-maroon-5s-new-song-nobodys-love/
--
--https://maroon5.fandom.com/wiki/Jesse_Carmichael
--https://maroon5.fandom.com/wiki/Ryan_Dusick
--https://maroon5.fandom.com/wiki/Mickey_Madden
--https://maroon5.fandom.com/wiki/James_Valentine
++ The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5 and a website(https://www.aceshowbiz.com/celebrity/maroon_5/biography.html)
++ The photos used in the main site were obtained from https://user-images.githubusercontent.com/116336741/202636687-b82f8b66-3152-4382-9442-dc1959c98a32.png
++ Information about members was copied from 
++- https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/ 
++- https://maroon5.fandom.com/wiki/Adam_Levine
++-https://maroon5.fandom.com/wiki/Jesse_Carmichael
++-https://maroon5.fandom.com/wiki/Ryan_Dusick
++-https://maroon5.fandom.com/wiki/Mickey_Madden
++-https://maroon5.fandom.com/wiki/James_Valentine
++ Photo was used from https://metalheadzone.com/adam-levine-reveals-writing-process-details-of-maroon-5s-new-song-nobodys-love/
+
+
 -https://networthpost.org/net-worth/jesse-carmichael-net-worth/
 -http://maroonv97.blogspot.com/2015/03/matt-flynn.html
 -https://www.pinterest.com/pin/826410600358388050/
