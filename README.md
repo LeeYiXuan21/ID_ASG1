@@ -21,23 +21,23 @@ I started with reasearching about the band and about different websites. Then,  
 + sugar concert(https://www.youtube.com/embed/6eKv2lqgR-Q)
 
 ### The features are 
-● Introduction of band's history
-● Background of each member
-● Show some songs published
-● Publicise the band's upcoming shedule
-● Sell merchandise 
-● Provide links to external resources, such as the band's social media profiles
+1. Introduction of band's history
+2. Background of each member
+3. Show some songs published
+4. Publicise the band's upcoming shedule
+5. Sell merchandise 
+6. Provide links to external resources, such as the band's social media profiles
 
-Feature 1 - allows users to learn about the band's history, by having them read the passage.
-Feature 2 - allows users to learn about each band member, by having them read the passage.
-Feature 3 - allow user to listin to some songs they puplish by clicking on the youtube tab.
-Feature 4 - allow users to know their schedule and maybe go support them, by reading through the passaage and clicking a link to buy tickets.
-Feature 5 - allow users to know what merchandise are avaliable and buy them.
-Feature 6 - allow users to get more infomation through the official resources, for example youtube and instagram.
++ Feature 1 - allows users to learn about the band's history, by having them read the passage.
++ Feature 2 - allows users to learn about each band member, by having them read the passage.
++ Feature 3 - allow user to listin to some songs they puplish by clicking on the youtube tab.
++ Feature 4 - allow users to know their schedule and maybe go support them, by reading through the passaage and clicking a link to buy tickets.
++ Feature 5 - allow users to know what merchandise are avaliable and buy them.
++ Feature 6 - allow users to get more infomation through the official resources, for example youtube and instagram.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
--Have latest news of the band
--Have all the songs in the webpage
+#### In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Have latest news of the band
+- Have all the songs in the webpage
 
 ## Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
@@ -48,7 +48,12 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing:
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing my testing process is via scenarios, such as:
--
+1. The home page can scroll through for video, picture and information about the band.
+2. At the bottom of home page, can push button to the top of page and have links mto official website.
+3. There is a navigation bar to go to paragraph and other pages and home to go back.
+4. The member icon open to different pages of infomation of each members and picture.
+5. The merchandise page shows different merchandise available now and the prices.
+6. The schedule tab shows there world tour dates and locations.
 
 
 ### Interesting bugs or problems i discovered during testing:
@@ -78,7 +83,6 @@ For any scenarios that have not been automated, test the user stories manually a
 - https://www.dailymail.co.uk/tvshowbiz/article-8476589/Maroon-5-bassist-Micky-Madden-arrested-domestic-violence-charges-Los-Angeles.html
 - https://www.zimbio.com/photos/PJ+Morton/xABmFTQw9iZ/Maroon+5+Performs+NBC+Today
 - https://maroonfivemusic.blogspot.com/2013/06/maroon-5-music.html
--
 + The text for the schedules is taken from the maroon 5 website (https://www.maroon5.com/tour)
 + The photos used in the merchandise site were obtained from official Maroon 5 website(https://maroon5.store/)
 - https://cdn.shopify.com/s/files/1/0016/7473/9747/products/M5-0024_VinylMock-01_2_1_360x.png?v=1632237126
