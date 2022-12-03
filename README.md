@@ -66,6 +66,11 @@ For any scenarios that have not been automated, test the user stories manually a
 -https://maroon5.fandom.com/wiki/Mickey_Madden
 -https://maroon5.fandom.com/wiki/James_Valentine
 -https://networthpost.org/net-worth/jesse-carmichael-net-worth/
+-http://maroonv97.blogspot.com/2015/03/matt-flynn.html
+-https://www.pinterest.com/pin/826410600358388050/
+-https://www.dailymail.co.uk/tvshowbiz/article-8476589/Maroon-5-bassist-Micky-Madden-arrested-domestic-violence-charges-Los-Angeles.html
+-https://www.zimbio.com/photos/PJ+Morton/xABmFTQw9iZ/Maroon+5+Performs+NBC+Today
+-https://maroonfivemusic.blogspot.com/2013/06/maroon-5-music.html
 -
 -The text for the schedules is taken from the maroon 5 website (https://www.maroon5.com/tour)
 -The photos used in the merchandise site were obtained from official Maroon 5 website(https://maroon5.store/)
