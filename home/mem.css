@@ -31,3 +31,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  @media screen and (max-width: 600px){
+    div.container {
+        margin-top: 500px;
+        display: flex;
+        flex-direction: column;
+        color: white;
+        justify-content: flex-start;
+    }
+    
+    
+  }

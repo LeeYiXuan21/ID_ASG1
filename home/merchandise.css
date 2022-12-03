@@ -2,8 +2,9 @@
   display: flex;
   justify-content: center;
   font-size: 40px;
-  color: black;
+  color: red;
   font-weight: bolder;
+  font-family: Black Han Sans;
 }
 .box{
   display: flex;
@@ -16,6 +17,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-around;
+  font-size: larger;
 }
 
 
@@ -32,7 +34,7 @@ body{
 .button{
   display: flex;
   justify-content: center;
-  background-color: orange;
+  background-color: darkslateblue;
   border-color: aqua;
   color: white;
   font-size: 25px;
@@ -42,4 +44,17 @@ body{
   cursor: pointer;
 }
 
-
+@media only screen and (max-width:400px){
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+  }
+  .box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+  }
+}
