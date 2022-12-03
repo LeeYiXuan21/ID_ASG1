@@ -23,7 +23,7 @@
   }
 
   .topnav a.active {
-    background-color: rgb(23, 200, 232);
+    background-color: rgba(209, 19, 230, 0.679);
     color: white;
   }
   
