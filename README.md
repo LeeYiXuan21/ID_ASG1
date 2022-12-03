@@ -7,12 +7,12 @@ My Project is about a website to give information about the band Maroon 5 and se
 I started with reasearching about the band and about different websites. Then,  i take down what information i need and what features i'm going to put in the website. After that, i started sketching the wireframe and my ideas, then use adobe XD to store my sketches. Since the website is for fans or potential fans of the band , i wanted to give reliable information and thought of things they want to know about and what they want. My project is the best way to help them achieve the things they want to achieved as a user type, I want to perform an action of introducing the band and selling merchandise , so that I can achieve a goal of letting more people become interested in the band.
 
 ### Wireframes, mockups, diagrams etc. that I created as part of the design process:
--https://xd.adobe.com/view/b272cc12-4942-4916-b1f1-e1f2c35dc5fd-e721/
--https://xd.adobe.com/view/ce7172a4-69df-4340-9b59-b5d60f83dba8-9b22/
--https://xd.adobe.com/view/b91a3b0e-4ef5-4f20-bb75-63b61c21e215-ec49/
--https://xd.adobe.com/view/bffef9fb-7cf9-48c6-a29f-6b30ae375c53-eaad/
--https://xd.adobe.com/view/e05a822a-8a2a-4064-adcf-0ed94d2d8e8c-b509/
--https://xd.adobe.com/view/25804e44-7610-4f21-9241-6955f8637a24-70d3/
++ https://xd.adobe.com/view/b272cc12-4942-4916-b1f1-e1f2c35dc5fd-e721/
++ https://xd.adobe.com/view/ce7172a4-69df-4340-9b59-b5d60f83dba8-9b22/
++ https://xd.adobe.com/view/b91a3b0e-4ef5-4f20-bb75-63b61c21e215-ec49/
++ https://xd.adobe.com/view/bffef9fb-7cf9-48c6-a29f-6b30ae375c53-eaad/
++ https://xd.adobe.com/view/e05a822a-8a2a-4064-adcf-0ed94d2d8e8c-b509/
++ https://xd.adobe.com/view/25804e44-7610-4f21-9241-6955f8637a24-70d3/
 
 ## Features:
 ### Showcase photos, audio and/or video clips from the band's catalogue:
