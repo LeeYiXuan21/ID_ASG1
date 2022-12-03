@@ -64,6 +64,7 @@ For any scenarios that have not been automated, test the user stories manually a
 
 ## Credits for Content, Media
 + The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5 and a website(https://www.aceshowbiz.com/celebrity/maroon_5/biography.html)
++ The background used are ![image](https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png) and ![image](https://wallup.net/wp-content/uploads/2016/01/61411-space-stars.jpg)
 + The photos used in the main site were obtained from https://user-images.githubusercontent.com/116336741/202636687-b82f8b66-3152-4382-9442-dc1959c98a32.png
 + Information about members was copied from 
 - https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/ 
