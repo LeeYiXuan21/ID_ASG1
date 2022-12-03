@@ -64,7 +64,7 @@ h2{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
   display: block;
 }
 
@@ -130,7 +130,7 @@ overflow: hidden;
 }
 
 .subnav .subnavbtn {
-font-size: 20px;
+font-size: 30px;
 border: none;
 outline: none;
 color: white;
@@ -245,9 +245,16 @@ button:hover {
   color: white;
   display: flex;
   justify-content: center;
+  font-size: 30px;
+}
+
+.kicon{
+  margin: 5px;
 }
 
 .linky{
+  font-size: 20px;
+  font-weight: bold;
   background-color: rgb(224, 117, 224);
   color: white;
   padding: 14px 20px;
@@ -256,11 +263,12 @@ button:hover {
   border-style: solid;
   border-radius: 20px;
   cursor: pointer;
-  width: 50%;
+  width: 100%;
 }
 
 .linkinfo{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   margin-top: 50px;
   margin-bottom: 50px;
