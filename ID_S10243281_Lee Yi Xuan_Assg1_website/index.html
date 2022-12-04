@@ -12,7 +12,6 @@
     <link href='https://fonts.googleapis.com/css?family=Goblin One' rel='stylesheet'>
 </head>
 
-<script src="home.js"></script>
 
 <!--menu-->
 <div class="topnav" id="myTopnav">
@@ -178,3 +177,22 @@
   </section>
 
 </html>
+
+<script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+  function myFunction() {
+    var x = document.getElementById("topnav-right");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+  </script>

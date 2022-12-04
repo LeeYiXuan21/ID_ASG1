@@ -343,6 +343,7 @@ button:hover {
     display: block;
     text-align: right;
   }
+
   .responsive.topnav-right{
     float: none;
     display: none;

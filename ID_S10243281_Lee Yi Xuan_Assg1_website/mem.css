@@ -20,6 +20,7 @@ img{
     height: 600px;
 }
 
+
 body {
     background-image: url('https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png');
     width: 100%;
@@ -29,10 +30,24 @@ body {
     background-size: cover;
   }
 
-@media screen and (max-width: 600px){
-    .container {
+
+@media only screen and (max-width: 600px){
+    .container{
         display: flex;
         flex-direction: column;
-        justify-content: flex-end;
-    }  
+        justify-content: flex-start;
+        color: black;
+    }
+    
+    .box{
+        padding-top: 100px;
+    }
+  
+    img{
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 40px;
+        width: 500px;
+        height: 600px;
+    }
   }
