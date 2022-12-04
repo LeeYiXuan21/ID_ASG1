@@ -33,12 +33,6 @@ body {
     .container {
         display: flex;
         flex-direction: column;
-        justify-content: flex-start;
+        justify-content: flex-end;
     }  
-    .box{
-        float: inline-end;
-    }
-    .img{
-        float: inline-start;
-    }
   }

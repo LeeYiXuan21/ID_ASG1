@@ -338,6 +338,16 @@ button:hover {
     display: block;
     text-align: left;
   }
+  .topnav-right a{
+    float: none;
+    display: block;
+    text-align: right;
+  }
+  .responsive.topnav-right{
+    float: none;
+    display: none;
+    text-align: right;
+  }
   .topnav.responsive .subnav {float: none;}
   .topnav.responsive .subnav-content {position: relative;}
   .topnav.responsive .subnav .subnavbtn {
