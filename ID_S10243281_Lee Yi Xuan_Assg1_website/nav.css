@@ -52,7 +52,7 @@
     }
   }
 
-  .top{
+.top{
     color: white;
     font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -67,4 +67,10 @@
     margin-left: 550px;
   }
 
-  
+@media screen and (max-width: 400px) {
+    .top{
+      display: flex;
+      justify-content: center;
+      margin-right: 50px;
+    }
+}

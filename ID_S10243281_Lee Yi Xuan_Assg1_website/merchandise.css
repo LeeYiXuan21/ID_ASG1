@@ -44,17 +44,34 @@ body{
   cursor: pointer;
 }
 
-@media only screen and (max-width:400px){
-  .container{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: space-around;
+@media screen and (max-width: 800px) {
+  .box {
+    flex: 50%;
+    max-width: 50%;
   }
-  .box{
+  .container {
+    flex: 50%;
+    max-width: 50%;
+  }
+  .button{
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: space-around;
+    justify-content: center;
+    margin-right: 50px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .box {
+    flex: 100%;
+    max-width: 100%;
+  }
+  .container {
+    flex: 100%;
+    max-width: 100%;
+  }
+  .button{
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
   }
 }

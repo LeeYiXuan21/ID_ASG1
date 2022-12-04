@@ -6,12 +6,13 @@ function myFunction() {
       x.className = "topnav";
     }
   }
+ 
   function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-      x.className += " responsive";
+    var x = document.getElementById("topnav-right");
+    if (x.style.display === "block") {
+      x.style.display = "none";
     } else {
-      x.className = "topnav";
+      x.style.display = "block";
     }
   }
   
