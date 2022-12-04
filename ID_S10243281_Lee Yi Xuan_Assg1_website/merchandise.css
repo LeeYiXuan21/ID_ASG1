@@ -47,10 +47,12 @@ body{
 @media only screen and (max-width: 800px) {
   .box {
     flex: 50%;
+    flex-direction: column;
     max-width: 50%;
   }
   .container {
     flex: 50%;
+    flex-direction: column;
     max-width: 50%;
   }
   .button{
@@ -63,10 +65,12 @@ body{
 @media only screen and (max-width: 600px) {
   .box {
     flex: 100%;
+    flex-direction: column;
     max-width: 100%;
   }
   .container {
     flex: 100%;
+    flex-direction: column;
     max-width: 100%;
   }
   .button{
