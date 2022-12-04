@@ -32,7 +32,7 @@ body{
 }
 
 @media screen and (max-width: 600px) {
-  .text{
+  section.responsive.box{
     font-size: 50px;
   }
 }

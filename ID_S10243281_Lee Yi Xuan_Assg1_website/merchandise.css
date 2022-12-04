@@ -45,15 +45,15 @@ body{
 }
 
 @media screen and (max-width: 800px) {
-  .box {
+  section.responsive.box {
     flex: 50%;
     max-width: 50%;
   }
-  .container {
+  section.responsive.container {
     flex: 50%;
     max-width: 50%;
   }
-  .button{
+  .button.responsive{
     display: flex;
     justify-content: center;
     margin-right: 50px;
@@ -61,15 +61,15 @@ body{
 }
 
 @media screen and (max-width: 600px) {
-  .box {
+  section.responsive.box {
     flex: 100%;
     max-width: 100%;
   }
-  .container {
+  section.responsive.container {
     flex: 100%;
     max-width: 100%;
   }
-  .button{
+  .button.responsive{
     display: flex;
     justify-content: center;
     margin-right: 50px;
