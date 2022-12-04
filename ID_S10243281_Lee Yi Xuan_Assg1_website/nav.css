@@ -47,7 +47,7 @@
       right: 0;
       top: 0;
     }
-    div.topnav.responsive {
+    .topnav.responsive {
       font-size: 50px;
     }
   }
@@ -67,10 +67,9 @@
     margin-left: 550px;
   }
 
-@media screen and (max-width: 400px) {
-    a.resposive.top{
+@media screen and (max-width: 600px) {
+    .top{
       display: flex;
       justify-content: center;
-      margin-right: 100px;
     }
 }

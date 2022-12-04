@@ -44,32 +44,32 @@ body{
   cursor: pointer;
 }
 
-@media screen and (max-width: 800px) {
-  section.responsive.box {
+@media only screen and (max-width: 800px) {
+  .box {
     flex: 50%;
     max-width: 50%;
   }
-  section.responsive.container {
+  .container {
     flex: 50%;
     max-width: 50%;
   }
-  .button.responsive{
+  .button{
     display: flex;
     justify-content: center;
     margin-right: 50px;
   }
 }
 
-@media screen and (max-width: 600px) {
-  section.responsive.box {
+@media only screen and (max-width: 600px) {
+  .box {
     flex: 100%;
     max-width: 100%;
   }
-  section.responsive.container {
+  .container {
     flex: 100%;
     max-width: 100%;
   }
-  .button.responsive{
+  .button{
     display: flex;
     justify-content: center;
     margin-right: 50px;
