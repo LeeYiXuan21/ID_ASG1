@@ -66,7 +66,7 @@ For any scenarios that have not been automated, test the user stories manually a
 + The text for background was copied from the Wikipedia article and the link is https://en.wikipedia.org/wiki/Maroon_5 and a website(https://www.aceshowbiz.com/celebrity/maroon_5/biography.html)
 + The background used are ![image](https://f.ptcdn.info/970/023/000/1412026068-Maroon5VDe-o.png) and ![image](https://wallup.net/wp-content/uploads/2016/01/61411-space-stars.jpg)
 + The photos used in the main site were obtained from https://user-images.githubusercontent.com/116336741/202636687-b82f8b66-3152-4382-9442-dc1959c98a32.png
-+ Information about members was copied from 
+### Information about members was copied from 
 - https://abtc.ng/maroon-5-biography-net-worth-songs-and-real-name/ 
 - https://maroon5.fandom.com/wiki/Adam_Levine
 - https://maroon5.fandom.com/wiki/Jesse_Carmichael
@@ -76,7 +76,7 @@ For any scenarios that have not been automated, test the user stories manually a
 - https://maroon5.fandom.com/wiki/PJ_Morton
 - https://maroon5.fandom.com/wiki/Matt_Flynn
 - https://en.wikipedia.org/wiki/Sam_Farrar
-+ Photos was used from 
+### Photos was used from 
 - https://metalheadzone.com/adam-levine-reveals-writing-process-details-of-maroon-5s-new-song-nobodys-love/
 - https://networthpost.org/net-worth/jesse-carmichael-net-worth/
 - http://maroonv97.blogspot.com/2015/03/matt-flynn.html
@@ -84,8 +84,8 @@ For any scenarios that have not been automated, test the user stories manually a
 - https://www.dailymail.co.uk/tvshowbiz/article-8476589/Maroon-5-bassist-Micky-Madden-arrested-domestic-violence-charges-Los-Angeles.html
 - https://www.zimbio.com/photos/PJ+Morton/xABmFTQw9iZ/Maroon+5+Performs+NBC+Today
 - https://maroonfivemusic.blogspot.com/2013/06/maroon-5-music.html
-+ The text for the schedules is taken from the maroon 5 website (https://www.maroon5.com/tour)
-+ The photos used in the merchandise site were obtained from official Maroon 5 website(https://maroon5.store/)
+### The text for the schedules is taken from the maroon 5 website (https://www.maroon5.com/tour)
+### The photos used in the merchandise site were obtained from official Maroon 5 website(https://maroon5.store/)
 - https://cdn.shopify.com/s/files/1/0016/7473/9747/products/M5-0024_VinylMock-01_2_1_360x.png?v=1632237126
 - https://cdn.shopify.com/s/files/1/0016/7473/9747/products/6321M5jewelcase4.27_2ce63465-f0db-4f43-9ea3-a808a6d2b412_360x.png?v=1623733699
 - https://cdn.shopify.com/s/files/1/0016/7473/9747/products/Croppedhoodie_360x.png?v=1629742193
@@ -103,7 +103,7 @@ For any scenarios that have not been automated, test the user stories manually a
 - https://cdn.shopify.com/s/files/1/0016/7473/9747/products/Croppedhoodie_360x.png?v=1629742193
 - https://cdn.shopify.com/s/files/1/0016/7473/9747/products/CroppedTee_360x.png?v=1629685293
 
-+ The links that are used:
+### The links that are used:
 - https://twitter.com/maroon5
 - https://www.maroon5.com/
 - https://www.facebook.com/people/Official-Maroon-5/100068387934583/
