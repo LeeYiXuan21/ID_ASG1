@@ -60,6 +60,7 @@ For any scenarios that have not been automated, test the user stories manually a
 + Some application cannot be applied and i have to edit and kept redoing until it works.
 + Have problems positioning stuff and paragraphing.
 + Not sure how adjust my bugs and errors.
++ I have problems with the responsive, i kept on changing but nothing happens and im not sure what is the problem.
 
 
 ## Credits for Content, Media
